@@ -1,0 +1,46 @@
+.navbar .nav-link:hover{
+    border-bottom: 3px solid orangered;
+}
+.navbar a  .btn{
+    background-color: orangered;
+}
+
+button{
+    color: black;
+}
+ #container-fluid{
+    background-color: orangered;
+    height: 300px;
+    padding: 20px;
+    margin-top: 10px;  
+}
+
+.parallex-1{
+    position: relative;
+    background-image: url('./resort.jpg');  
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:80%;      
+}
+.parallex-1-inner p{
+    width: 50%;
+    padding-left: 50px;
+    font-style: italic;
+    color: crimson;
+}
+.parallex-2{
+    background-image: url('./yoopuneBuilding.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+.form{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 1);
+}
+
